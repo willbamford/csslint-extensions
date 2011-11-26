@@ -21,7 +21,6 @@ CSSLint.addRule({
         	"startrule",
         	function(event) {
         		lastName = null;
-        		console.log(event.selectors[0].text);
         	}
         );
         
