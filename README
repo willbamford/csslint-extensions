@@ -1,5 +1,5 @@
-At the moment this project contains a single additional rule (including unit test) for CSS Lint (http://csslint.net/) that ensures that CSS properties are ordered alphabetically (excluding vendor-specific properties).
+This project contains a single additional rule (including unit tests) for CSS Lint (http://csslint.net/). This rule ensures that all CSS properties are ordered alphabetically (excluding those which are vendor-specific).
 
-This is obviously not a universally accepted best-practise for CSS development, but some may find it useful.
+As this is a fairly project-specific requirement for CSS development I'm dumping it here.
 
 The file locations reflect those found in the CSS Lint project.
